@@ -1,4 +1,4 @@
-# Lenguaje de Programación 2 - Taller 2
+# Lenguaje de Programación 2 - Taller 4
 
 ![commits](https://badgen.net/github/commits/UR-CC/lp2-taller4?icon=github) 
 ![last_commit](https://img.shields.io/github/last-commit/UR-CC/lp2-taller4)
